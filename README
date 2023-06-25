@@ -1,0 +1,6 @@
+Youtube Video Downloader
+
+Pytube module needs to be installed before running the script.
+Once URL is inputed; a prompt to select a directory will appear after.
+
+Feel free to play around with it as this is a small project for school.
